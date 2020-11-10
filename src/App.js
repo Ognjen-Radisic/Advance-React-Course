@@ -1,5 +1,5 @@
 import React from 'react'
-import Setup from './components/1-UseState/2-useState-basics'
+import Setup from './components/1-UseState/3-useState-array'
 
 function App() {
   return (
