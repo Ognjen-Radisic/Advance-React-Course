@@ -1,5 +1,5 @@
 import React from 'react'
-import Setup from './components/2-UseEffect/2-useEffect-cleanup'
+import Setup from './components/2-UseEffect/3-useEffect-fetch-data'
 
 function App() {
   return (
