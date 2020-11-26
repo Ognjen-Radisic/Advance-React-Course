@@ -1,5 +1,5 @@
 import React from 'react'
-import Setup from './components/9-Custom-hooks/1-fetch-example'
+import Setup from './components/10-Prop-types/index'
 
 function App() {
   return (
